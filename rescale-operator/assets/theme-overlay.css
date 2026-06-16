@@ -61,7 +61,7 @@ body {
   pointer-events: none;
 }
 .hero > .container { position: relative; z-index: 1; }
-.hero h1 { color: #f5f3ee; letter-spacing: -0.03em; }
+.hero h1 { color: #ffffff; letter-spacing: -0.03em; }
 .hero .lead { color: #b8b2aa; }
 .hero .eyebrow { color: #e07a4f; }
 .hero .hero-subtitle, .hero .featured-subtitle { color: #e07a4f; }
