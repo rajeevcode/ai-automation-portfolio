@@ -1,9 +1,6 @@
 .DS_Store
 *.log
 
-# Interview prep profile (not for publishing until approved)
-Profile-rescale-os/
-
 # Design mockup source (internal — not part of the published site)
 Portfolio CV Design/
 Portfolio CV Design.zip
