@@ -7,3 +7,6 @@ Portfolio CV Design.zip
 
 # Local dependencies (never deploy)
 **/node_modules/
+
+# Heavy original photo source (not for deploy; resized copy lives in Rajeev_Pic.jpg)
+**/final-image*.jpg
