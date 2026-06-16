@@ -94,8 +94,11 @@ const CONTENT = {
     "AJIO", "Jul 2011 - Dec 2016",
     // Business impact: real attributed metrics (not generic labels)
     "2,000+/day", "$2.1M", "$185K", "$5M+", "17/20",
-    // skills regrouped by outcome
-    "AI Product &amp; Agents", "Platform &amp; APIs", "Marketplace &amp; Payments",
+    // skills regrouped by outcome (expanded)
+    "AI Product &amp; Agents", "RAG &amp; AI Memory", "Platform &amp; APIs",
+    "Marketplace, Payments &amp; Integrations", "Development &amp; Delivery",
+    "Anthropic Claude", "Google Gemini", "Ollama", "LangChain", "pgvector",
+    "Visual Studio Code", "Google Antigravity", "OpenAI GPT models",
     // project-visibility lines present (readable, no slash-heavy formatting)
     "Internal product and confidential. Public URL unavailable.",
   ],
