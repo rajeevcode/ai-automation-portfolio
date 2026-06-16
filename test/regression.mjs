@@ -78,7 +78,9 @@ const CONTENT = {
   "Pulsara-Portfolio/index.html": ["2,000+", "70%", "pulsara.rescale.media"],
   "education-mba/index.html": ["17/20", "60 ECTS", "3.22", "AMBA", "Detailed capstone content to be added by Rajeev",
     // FT ranking + public references (added)
-    "#21", "Financial Times Global MBA Ranking 2026", "rankings.ft.com", "pbs.up.pt", "up.pt", "ie.edu", "associationofmbas.com"],
+    "#21", "Financial Times Global MBA Ranking 2026", "rankings.ft.com", "pbs.up.pt", "up.pt", "ie.edu", "associationofmbas.com",
+    // verified PBS credential certificate links
+    "certificates.pbs.up.pt", "International MBA 2024/25", "AI Certificate, Young Alumni 2025"],
   // The hub now lives at the repo ROOT (rescale-operator/index.html is a redirect).
   "index.html": [
     "github.com/rajeevcode", "medium.com/@rajeev25",
